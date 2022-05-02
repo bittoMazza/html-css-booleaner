@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 70%;
+    margin:auto
+}
+
+footer{
+    width: 70%;
+    margin: auto;
+}
+
+header{
+    background-image:url("../img/pattern.png");
+    height: 180px;
+    background-color: rgb(8, 171, 235);
+    position: relative;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.logo{
+    width: 250px;
+    position:absolute;
+    bottom: 10%;
+    left: 15%;
+}
+
+
+.info{
+    margin-bottom: 20px;
+}
+
+.foto>p{
+    margin: 0px;
+}
+.foto{
+    margin-bottom: 15px;
+}
+.data,.autore,footer>h3{
+    color: rgb(120, 120, 120); 
+}
+
+.autore{
+    font-size: 20px;
+}
+
+.data,.descrizione_foto{
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(39, 190, 236, 0.952);
+}
+
+.paragrafo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+#testa{
+    background-color:rgba(39, 190, 236, 0.952); 
+    color: white;
+    text-align: left;
+}
+
+.riga{
+    background-color: rgb(139, 199, 235);
+}
+
+ul{
+    padding: 15px;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+#monitor{
+    background: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    min-height: 150px;
+}
+
+
+#grafico{
+    margin-top: 15px;
+    background: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    min-height: 150px;
+}
+
+.titolo_consigliati{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+td{
+    text-align: left;
+    padding: 20px 80px 20px 0px;
+}
