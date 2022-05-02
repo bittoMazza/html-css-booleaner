@@ -1,0 +1,53 @@
+
+header{
+    background-image:url("../img/pattern.png");
+    height: 180px;
+    background-color: rgb(8, 171, 235);
+    position: relative;
+}
+
+.logo{
+    width: 250px;
+    position:absolute;
+    bottom: 10%;
+}
+.data,.autore{
+    color: rgb(120, 120, 120); 
+}
+
+.autore{
+    font-size: 20px;
+}
+
+
+.data{
+    font-size: 14px;;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(39, 190, 236, 0.952);
+}
+
+
+.descrizione_foto{
+    font-size: 14px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+#testa{
+    background-color:rgba(39, 190, 236, 0.952); 
+    color: white;
+}
+
+.riga{
+    background-color: rgb(139, 199, 235);
+}
+table{
+    border-spacing: 0px;
+}
+
+
