@@ -60,6 +60,10 @@ a{
     text-align: left;
 }
 
+#sizing{
+    width: 50%;
+}
+
 .riga{
     background-color: rgb(139, 199, 235);
 }
@@ -99,7 +103,4 @@ table{
     margin-top: 10px;
 }
 
-td{
-    text-align: left;
-    padding: 20px 80px 20px 0px;
-}
+

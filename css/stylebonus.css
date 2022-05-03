@@ -119,3 +119,8 @@ td{
     text-align: left;
     padding: 20px 80px 20px 0px;
 }
+
+th{
+    text-align: left;
+    padding: 0px 150px 0px 0px;
+}
